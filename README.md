@@ -1,11 +1,11 @@
 # WalkTest
 A simple practice project focused on using input-mapping to cause 2D character movement.
 
-##Built With
+## Built With
 * C#
 * Unity
 
-##Controls
+## Controls
 * **Move up:** `W`
 * **Move down:** `S`
 * **Move left:** `A`
